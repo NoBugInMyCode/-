@@ -1,5 +1,8 @@
-# 小猿搜题比大小图片识别
+# 小猿口算比大小图片识别
 ## Requirements:
+### Blue Stacks 5:
+1. 下载并安装[链接](https://www.bluestacks.com/bluestacks-5.html)
+2. 绘制大于号小于号等号的脚本并绑定按键，大于号绑定`.`，小于号绑定`,`，等号绑定`/`
 ### Tesseract:
 1. 下载Tesseract [链接](https://github.com/UB-Mannheim/tesseract/wiki)
 2. 安装之后将`Tesseract-OCR`文件夹加入到path中
