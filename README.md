@@ -1,4 +1,4 @@
-# 小猿口算比大小图片识别
+# 小猿口算比大小图片识别脚本
 ## Requirements:
 ### Blue Stacks 5:
 1. 下载并安装[链接](https://www.bluestacks.com/bluestacks-5.html)
